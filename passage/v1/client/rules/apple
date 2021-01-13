@@ -57,6 +57,6 @@
         "DOMAIN,captive.apple.com,DIRECT",
         "DOMAIN-SUFFIX,ess.apple.com,DIRECT",
         "DOMAIN-SUFFIX,push.apple.com,DIRECT",
-        "DOMAIN-SUFFIX,push-apple.com.akadns.net,DIRECT",
+        "DOMAIN-SUFFIX,push-apple.com.akadns.net,DIRECT"
 	]
 }
