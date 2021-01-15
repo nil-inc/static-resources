@@ -1,0 +1,6 @@
+{
+    "id": "com.nil-inc.passage.rules.apple.ocsp",
+	"data": [
+        "DOMAIN,ocsp.apple.com,PROXY"
+	]
+}

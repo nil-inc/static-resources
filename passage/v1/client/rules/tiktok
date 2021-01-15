@@ -1,0 +1,10 @@
+{
+    "id": "com.nil-inc.passage.rules.tiktok",
+	"data": [
+		"DOMAIN-SUFFIX,muscdn.com,DIRECT",
+		"DOMAIN-SUFFIX,musical.ly,DIRECT",
+		"DOMAIN-SUFFIX,tiktokv.com,DIRECT",
+		"DOMAIN-SUFFIX,tiktokcdn.com,DIRECT",
+		"DOMAIN-MATCH,-tiktokcdn-com,DIRECT"
+	]
+}

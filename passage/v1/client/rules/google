@@ -1,0 +1,9 @@
+{
+    "id": "com.nil-inc.passage.rules.google",
+	"data": [
+		"DOMAIN-SUFFIX,googlevideo.com,PROXY",
+		"DOMAIN-SUFFIX,youtube.com,PROXY",
+		"DOMAIN,youtubei.googleapis.com,PROXY",
+		"DOMAIN-MATCH,google,PROXY"
+	]
+}

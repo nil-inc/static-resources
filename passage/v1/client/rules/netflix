@@ -1,0 +1,28 @@
+{
+    "id": "com.nil-inc.passage.rules.netflix",
+	"data": [
+		"DOMAIN-SUFFIX,netflix.com,PROXY",
+		"DOMAIN-SUFFIX,netflix.net,PROXY",
+		"DOMAIN-SUFFIX,nflxext.com,PROXY",
+		"DOMAIN-SUFFIX,nflximg.com,PROXY",
+		"DOMAIN-SUFFIX,nflximg.net,PROXY",
+		"DOMAIN-SUFFIX,nflxso.net,PROXY",
+		"DOMAIN-SUFFIX,nflxvideo.net,PROXY",
+		"DOMAIN-SUFFIX,fast.com,PROXY",
+		"IP-CIDR,8.41.4.0/24,PROXY",
+		"IP-CIDR,23.246.0.0/18,PROXY",
+		"IP-CIDR,37.77.184.0/21,PROXY",
+		"IP-CIDR,45.57.0.0/17,PROXY",
+		"IP-CIDR,64.120.128.0/17,PROXY",
+		"IP-CIDR,66.197.128.0/17,PROXY",
+		"IP-CIDR,69.53.224.0/19,PROXY",
+		"IP-CIDR,108.175.32.0/20,PROXY",
+		"IP-CIDR,185.2.220.0/22,PROXY",
+		"IP-CIDR,185.9.188.0/22,PROXY",
+		"IP-CIDR,192.173.64.0/18,PROXY",
+		"IP-CIDR,198.38.96.0/19,PROXY",
+		"IP-CIDR,198.45.48.0/20,PROXY",
+		"IP-CIDR,207.45.72.0/22,PROXY",
+		"IP-CIDR,208.75.76.0/22,PROXY"
+	]
+}

@@ -2,6 +2,24 @@
 	"list": [
 		{
 			"url": "https://static.nil-service.com/passage/v1/client/rules/apple"
+		},
+		{
+			"url": "https://static.nil-service.com/passage/v1/client/rules/apple-ocsp"
+		},
+		{
+			"url": "https://static.nil-service.com/passage/v1/client/rules/google"
+		},
+		{
+			"url": "https://static.nil-service.com/passage/v1/client/rules/netflix"
+		},
+		{
+			"url": "https://static.nil-service.com/passage/v1/client/rules/pornhub"
+		},
+		{
+			"url": "https://static.nil-service.com/passage/v1/client/rules/telegram"
+		},
+		{
+			"url": "https://static.nil-service.com/passage/v1/client/rules/tiktok"
 		}
 	]
 }

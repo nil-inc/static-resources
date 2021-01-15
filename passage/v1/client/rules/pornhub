@@ -1,0 +1,9 @@
+{
+    "id": "com.nil-inc.passage.rules.pornhub",
+	"data": [
+		"DOMAIN-SUFFIX,phncdn.com,PROXY",
+		"DOMAIN-SUFFIX,phprcdn.com,PROXY",
+		"DOMAIN-SUFFIX,pornhub.com,PROXY",
+		"DOMAIN-SUFFIX,pornhubpremium.com,PROXY"
+	]
+}
