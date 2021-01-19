@@ -1,5 +1,6 @@
 {
     "id": "com.nil-inc.passage.rules.apple",
+    "name": "Apple Rules",
     "data": [
        "DOMAIN,aod.itunes.apple.com,PROXY",
        "DOMAIN,api.smoot.apple.cn,PROXY",

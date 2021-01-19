@@ -1,5 +1,6 @@
 {
     "id": "com.nil-inc.passage.rules.google",
+    "name": "Google Rules",
 	"data": [
 		"DOMAIN-SUFFIX,googlevideo.com,PROXY",
 		"DOMAIN-SUFFIX,youtube.com,PROXY",

@@ -1,5 +1,6 @@
 {
     "id": "com.nil-inc.passage.rules.telegram",
+    "name": "Telegram Rules",
 	"data": [
 		"DOMAIN-SUFFIX,t.me,PROXY",
 		"DOMAIN-SUFFIX,tdesktop.com,PROXY",

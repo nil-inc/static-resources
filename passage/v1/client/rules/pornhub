@@ -1,5 +1,6 @@
 {
     "id": "com.nil-inc.passage.rules.pornhub",
+    "name": "Pornhub Rules",
 	"data": [
 		"DOMAIN-SUFFIX,phncdn.com,PROXY",
 		"DOMAIN-SUFFIX,phprcdn.com,PROXY",

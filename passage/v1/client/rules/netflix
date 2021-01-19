@@ -1,5 +1,6 @@
 {
     "id": "com.nil-inc.passage.rules.netflix",
+    "name": "Netflix Rules",
 	"data": [
 		"DOMAIN-SUFFIX,netflix.com,PROXY",
 		"DOMAIN-SUFFIX,netflix.net,PROXY",

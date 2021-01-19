@@ -1,5 +1,6 @@
 {
     "id": "com.nil-inc.passage.rules.tiktok",
+    "name": "TikTok Rules",
 	"data": [
 		"DOMAIN-SUFFIX,muscdn.com,DIRECT",
 		"DOMAIN-SUFFIX,musical.ly,DIRECT",
