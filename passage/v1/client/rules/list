@@ -22,7 +22,10 @@
 			"url": "https://static.nil-service.com/passage/v1/client/rules/tiktok"
 		},
 		{
-			"url": "https://static.nil-service.com/passage/v1/client/rules/cn"
+			"url": "https://static.nil-service.com/passage/v1/client/rules/cn-domains"
+		},
+		{
+			"url": "https://static.nil-service.com/passage/v1/client/rules/cn-ips"
 		}
 	]
 }

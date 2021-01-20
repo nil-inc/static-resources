@@ -1,6 +1,6 @@
 {
-    "id": "com.nil-inc.passage.rules.cn",
-    "name": "China Rules",
+    "id": "com.nil-inc.passage.rules.cn-domains",
+    "name": "China Rules (Domains)",
     "data": [
         "DOMAIN-SUFFIX,qhimg.com,DIRECT",
         "DOMAIN-SUFFIX,qhres.com,DIRECT",
