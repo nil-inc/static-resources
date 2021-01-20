@@ -266,6 +266,7 @@
         "DOMAIN-SUFFIX,zhangzishi.cc,DIRECT",
         "DOMAIN-SUFFIX,zhihu.com,DIRECT",
         "DOMAIN-SUFFIX,zhimg.com,DIRECT",
-        "DOMAIN-SUFFIX,zhuihd.com,DIRECT"
+        "DOMAIN-SUFFIX,zhuihd.com,DIRECT",
+        "DOMAIN-SUFFIX,ip138.com,DIRECT"
     ]
 }
